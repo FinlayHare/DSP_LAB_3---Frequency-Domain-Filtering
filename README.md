@@ -10,6 +10,11 @@ Filtering Techniques -	Implementing Ideal and Gaussian Low-Pass and High-Pass fi
 
 Frequency Domain Analysis	- Visualizing magnitude spectrum and filter responses
 
+      Filter Type	  Purpose	          Frequency Behavior	Visual Effect
+      Ideal LP	      Extreme Smoothing	  Abrupt cutoff	        Blurry, harsh
+      Gaussian LP	  Gentle Smoothing	  Gradual reduction	    Soft, natural
+      Gaussian HP	  Edge Enhancement	  High-frequency boost	Sharp, detailed
+
 
 <img width="615" height="275" alt="Screenshot 2025-10-29 at 17 05 17" src="https://github.com/user-attachments/assets/c8e78b62-33be-48f8-a9ea-64e5d4418482" />
 <img width="629" height="206" alt="Screenshot 2025-10-29 at 17 05 24" src="https://github.com/user-attachments/assets/a9f59f72-ed79-404f-b528-e88adce87753" />
