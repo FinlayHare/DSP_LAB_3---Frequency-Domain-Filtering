@@ -1,5 +1,14 @@
 # DSP_LAB_3---Frequency-Domain-Filtering
-FFT
+
+This script shows image processing techniques using Fourier Transform and frequency-domain filtering, exploring low-pass and high-pass filtering methods.
+
+### Technical Details
+
+Fourier Transform	- Converting spatial domain to frequency domain using Fast Fourier Transform (FFT)
+
+Filtering Techniques -	Implementing Ideal and Gaussian Low-Pass and High-Pass filters
+
+Frequency Domain Analysis	- Visualizing magnitude spectrum and filter responses
 
 
 <img width="615" height="275" alt="Screenshot 2025-10-29 at 17 05 17" src="https://github.com/user-attachments/assets/c8e78b62-33be-48f8-a9ea-64e5d4418482" />
